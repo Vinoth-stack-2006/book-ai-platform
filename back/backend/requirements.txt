@@ -1,0 +1,7 @@
+Django
+djangorestframework
+chromadb
+sentence-transformers
+requests
+fuzzywuzzy
+python-Levenshtein

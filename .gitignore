@@ -1,0 +1,72 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+.pytest_cache/
+.python-version
+env/
+venv/
+ENV/
+venv.bak/
+.python_env/
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+back/backend/db.sqlite3
+back/chroma_db/chroma.sqlite3
+chroma_db/
+media/
+staticfiles/
+
+# Node / frontend
+node_modules/
+build/
+dist/
+yarn-error.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+.yarn-integrity
+package-lock.json
+.npm/
+
+# React / create-react-app
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+coverage/
+coverage-final.json
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+
+# OneDrive
+~$*
+*.onetoc2
+
+# Misc
+*.sqlite3
+*.sqlite
+*.iml
+.idea/
+*.log
+*.swp
+*.swo
+*~
+
+# Ignore screenshots and other generated assets if not tracked
+screenshots/
