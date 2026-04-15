@@ -204,9 +204,10 @@ npm start
 
 ## 📸 Screenshots
 
-
 ![Dashboard](./screenshots/dashboard.png)
 ![Ask AI](./screenshots/ask.png)
+![alt text](screenshots/ask1.png)
+![alt text](screenshots/ask2.png)
 ![Book Detail](./screenshots/detail.png)
 
 ---
